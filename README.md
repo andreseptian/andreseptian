@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Andre Septian!
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> , I'm Andre Septian!
 
 ### Stats:
 <details>
@@ -9,6 +9,10 @@
     - 📫 How to reach me: <a href="andreseptian.ibn@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
+    
+ 📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=andreseptian&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=andreseptian&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
