@@ -17,7 +17,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Andre_Septian-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/andre-septian/" target="blank"><img src="https://img.shields.io/badge/Andre_Septian-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://twitter.com/siiblack12" target="blank"><img src="https://img.shields.io/badge/@siiblack12_-30302f?style=flat&logo=twitter" /></a>
 </p>
 
