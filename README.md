@@ -14,10 +14,10 @@
 
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=andreseptian&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 </details>
-<p>
+<!-- <p>
     <img src="https://github-readme-stats.vercel.app/api?username=andreseptian&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreseptian&layout=compact" height=180 />
-</p>
+</p> -->
 
 ### Let's connect!
 <p>
