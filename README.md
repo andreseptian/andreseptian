@@ -1,17 +1,3 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> , I'm Andre Septian!
-
-### Stats:
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on Mayora Indah Tbk </br>
-    - 🌱 I’m currently learning Java and PHP </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="andreseptian.ibn@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-    
- 📊 &nbsp;**This week I spent my time on**
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -45,4 +31,3 @@
 <img src="https://raw.githubusercontent.com/andreseptian/andreseptian/output/snake.svg" alt="Snake animation" />
 
 ###
-
